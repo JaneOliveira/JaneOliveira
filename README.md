@@ -1,20 +1,23 @@
 ### Hi there 👋
 
-<i>-> Meu nome é Jane ("E antes que pense, já aviso, não é a Jane do Tarzan" 😄😄😄);
+### <i>-> Meu nome é Jane ("E antes que pense, já aviso, não é a Jane do Tarzan" 😄😄😄);
 
-Sou apaixonada por tecnologia e acredito que a educação transforma vidas! 🔭 🔭 🔭 
+#### Sou apaixonada por tecnologia e acredito que a educação transforma vidas! 🔭 🔭 🔭 
 
-"A melhor forma de prever o futuro é criá-lo."🌱  por: Peter Drucker>
+### "A melhor forma de prever o futuro é criá-lo." por: Peter Drucker
 
-Sou bacharel em Ciência e Tecnologia pela UFVJM, e atualmente estou cursando Engenharia Física.
+Sou graduada em Ciência e Tecnologia pela UFVJM, e atualmente estou cursando Engenharia Física.
+ 
+Sou monitora da disciplina de Liguagens de programação a mais de 2 anos e fui tutora de alunos do fundamental/médio em uma escola estadual, por 1 ano e meio. 
 
-Estou em um projeto de pesquisa que aplica técnicas de aprendizado de máquina na análise de crédito. A pesquisa busca demonstrar a eficácia 
+![image](https://user-images.githubusercontent.com/87083965/126054906-e0dae5d7-9f7d-4c52-8ec0-7c3e6eac9f04.png) Finalizei um projeto de pesquisa que aplica técnicas de aprendizado de máquina na análise de crédito. A pesquisa busca demonstrar a eficácia 
 de diversos classificadores para bases de dados da aréa de crédito. A classificação visa análisar um padrão de comportamento e com base nesse padrão
 classificar possívéis clientes em inadimplentes ou adimplentes, dado as caracteristicas do cliente e o histórico de crédito da instituição financeira.
-
-Sou monitora da disciplina de Liguagens de programação a mais de 2 anos e fui tutora de alunos do fundamental/médio em uma escola estadual, por 1 ano e meio. 
  
- ![image](https://user-images.githubusercontent.com/87083965/126054502-0424ded1-6cd2-43b4-a621-f536f9679d37.png) : https://www.linkedin.com/in/jane-thais-oliveira-733001150/
+ ![image](https://user-images.githubusercontent.com/87083965/126054917-503281a3-6c80-495f-af9e-4c8ad30171d0.png)
+Iniciei um projeto para montagem de um robô autônomo simples, com o intuito de futuramente testar no robô uma modelagem para roteamento de veículos. 
+
+ 
 
   
 ![image](https://user-images.githubusercontent.com/87083965/126054459-34ef76aa-9d0d-4cb7-9d13-7c61b0081c89.png)
