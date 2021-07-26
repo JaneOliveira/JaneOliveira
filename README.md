@@ -2,14 +2,16 @@
 
 ### <i>-> Meu nome é Jane ("E antes que pense, já aviso, não é a Jane do Tarzan" 😄😄😄);
  
-obs. desculpe a piada ruim, é que ja a incorporei por ter escutado milhares de vezes durante a vida. 
+obs. desculpe a piada ruim, é que por ter escutado milhares de vezes durante a vida, me acostumei, agora a uso como referência. 
 
-#### Vamos falar sobre minha pessoa:
+#### AVISOS:
  
 #### Sou apaixonada por tecnologia e acredito que a educação transforma vidas! 🔭 🔭 🔭 
 
-### "A melhor forma de prever o futuro é criá-lo." por: Peter Drucker
-
+### Peter Drucker disse que "A melhor forma de prever o futuro é criá-lo.", portanto, vamos criar? 
+ 
+#### Carreira Academica:
+ 
 Sou graduada em Ciência e Tecnologia pela UFVJM, e atualmente estou cursando Engenharia Física.
  
 Sou monitora da disciplina de Liguagens de programação a mais de 2 anos e fui tutora de alunos do fundamental/médio em uma escola estadual, por 1 ano e meio. 
