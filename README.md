@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 ### <i>-> Meu nome é Jane ("E antes que pense, já aviso, não é a Jane do Tarzan" 😄😄😄);
+ 
+obs. desculpe a piada ruim, é que ja a incorporei por ter escutado milhares de vezes durante a vida. 
 
+#### Vamos falar sobre minha pessoa:
+ 
 #### Sou apaixonada por tecnologia e acredito que a educação transforma vidas! 🔭 🔭 🔭 
 
 ### "A melhor forma de prever o futuro é criá-lo." por: Peter Drucker
