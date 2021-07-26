@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-### <i>-> Meu nome é Jane ("E antes que pense, já aviso, não é a Jane do Tarzan" 😄😄😄);
+## <i>-> Meu nome é Jane ("E antes que pense, já aviso, não é a Jane do Tarzan" 😄😄😄);
  
 obs. desculpe a piada ruim, é que por ter escutado milhares de vezes durante a vida, me acostumei, agora a uso como referência. 
 
-#### AVISOS:
+### AVISOS:
  
 #### Sou apaixonada por tecnologia e acredito que a educação transforma vidas! 🔭 🔭 🔭 
 
-### Peter Drucker disse que "A melhor forma de prever o futuro é criá-lo.", portanto, vamos criar? 
+#### Peter Drucker disse que "A melhor forma de prever o futuro é criá-lo.", portanto, vamos criar? 
  
-#### Carreira Academica:
+### Carreira Academica:
  
 Sou graduada em Ciência e Tecnologia pela UFVJM, e atualmente estou cursando Engenharia Física.
  
