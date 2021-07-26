@@ -21,7 +21,7 @@ de diversos classificadores para bases de dados da aréa de crédito. A classifi
 classificar possívéis clientes em inadimplentes ou adimplentes, dado as caracteristicas do cliente e o histórico de crédito da instituição financeira.
  
  ![image](https://user-images.githubusercontent.com/87083965/126054917-503281a3-6c80-495f-af9e-4c8ad30171d0.png)
-Iniciei um projeto para montagem de um robô autônomo simples, com o intuito de futuramente testar no robô uma modelagem para roteamento de veículos. 
+Iniciei um projeto para montagem de um robô autônomo simples utilizando arduino, com o intuito de futuramente testar no robô uma modelagem para roteamento de veículos autônomos. 
 
  
 
