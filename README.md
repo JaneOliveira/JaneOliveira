@@ -3,7 +3,7 @@
 ## <i>-> Meu nome é Jane Oliveira
  
 
-###  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jane-thais-oliveira-733001150/)](https://https://www.linkedin.com/in/jane-thais-oliveira-733001150/)
+###  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jane-thais-oliveira-733001150/)](https://https://www.linkedin.com/in/jane-thais-oliveira-733001150/)
 
  
 ### AVISOS:
