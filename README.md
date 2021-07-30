@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hi there 👋👋👋
 
-## <i>-> Meu nome é Jane ("E antes que pense, já aviso, não é a Jane do Tarzan" 😄😄😄);
+## <i>-> Meu nome é Jane Oliveira
  
-obs. desculpe a piada ruim, é que por ter escutado milhares de vezes durante a vida, me acostumei, agora a uso como referência. 
 
+###  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jane-thais-oliveira-733001150/)](https://https://www.linkedin.com/in/jane-thais-oliveira-733001150/)
+
+ 
 ### AVISOS:
  
 #### Sou apaixonada por tecnologia e acredito que a educação transforma vidas! 🔭 🔭 🔭 
