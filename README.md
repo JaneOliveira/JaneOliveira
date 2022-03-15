@@ -23,7 +23,9 @@ Inicio: setembro 2021.
 Sou graduada em Ciência e Tecnologia pela UFVJM, e atualmente estou cursando Engenharia Física.
  
 Fui monitora da disciplina de Liguagens de programação a mais de 2 anos e fui tutora de alunos do fundamental/médio em uma escola estadual, por 1 ano e meio. 
-
+ 
+ 
+#### Projetos
 ![image](https://user-images.githubusercontent.com/87083965/126054906-e0dae5d7-9f7d-4c52-8ec0-7c3e6eac9f04.png) Finalizei um projeto de pesquisa que aplica técnicas de aprendizado de máquina na análise de crédito. A pesquisa busca demonstrar a eficácia 
 de diversos classificadores para bases de dados da aréa de crédito. A classificação visa análisar um padrão de comportamento e com base nesse padrão
 classificar possívéis clientes em inadimplentes ou adimplentes, dado as caracteristicas do cliente e o histórico de crédito da instituição financeira.
