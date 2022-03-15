@@ -11,12 +11,18 @@
 #### Sou apaixonada por tecnologia e acredito que a educação transforma vidas! 🔭 🔭 🔭 
 
 #### Peter Drucker disse que "A melhor forma de prever o futuro é criá-lo.", portanto, vamos criar? 
+
+### Carreira Profissional: 
+ 
+Estágio: Engenharia de Dados, empresa: DP6
+ 
+Inicio: setembro 2021.
  
 ### Carreira Academica:
  
 Sou graduada em Ciência e Tecnologia pela UFVJM, e atualmente estou cursando Engenharia Física.
  
-Sou monitora da disciplina de Liguagens de programação a mais de 2 anos e fui tutora de alunos do fundamental/médio em uma escola estadual, por 1 ano e meio. 
+Fui monitora da disciplina de Liguagens de programação a mais de 2 anos e fui tutora de alunos do fundamental/médio em uma escola estadual, por 1 ano e meio. 
 
 ![image](https://user-images.githubusercontent.com/87083965/126054906-e0dae5d7-9f7d-4c52-8ec0-7c3e6eac9f04.png) Finalizei um projeto de pesquisa que aplica técnicas de aprendizado de máquina na análise de crédito. A pesquisa busca demonstrar a eficácia 
 de diversos classificadores para bases de dados da aréa de crédito. A classificação visa análisar um padrão de comportamento e com base nesse padrão
@@ -46,10 +52,13 @@ Iniciei um projeto para montagem de um robô autônomo simples utilizando arduin
 ![image](https://user-images.githubusercontent.com/87083965/126054648-0f9bd9d7-bfd8-4aa0-95fc-7bac9fe11ffe.png)
 ![image](https://user-images.githubusercontent.com/87083965/126054655-22ab3e5c-a01c-4825-b324-e2baca4e8594.png)
 ![image](https://user-images.githubusercontent.com/87083965/126054656-1b202b2a-2d99-41d7-ac81-52a0694945bb.png)
+![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![image](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![image]( https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
-
-
+ 
+ Dúvidas, bate papo, network e outros. Não exite em me procurar.😄 ![image](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 <!--
 **JaneOliveira/JaneOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
