@@ -34,6 +34,14 @@ classificar possívéis clientes em inadimplentes ou adimplentes, dado as caract
 Iniciei um projeto para montagem de um robô autônomo simples utilizando arduino, com o intuito de futuramente testar no robô uma modelagem para roteamento de veículos autônomos. 
 
  
+ <div align="center">
+  <a href="https://github.com/JaneOliveira">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JaneOliveira&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/JaneOliveira">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaneOliveira&layout=compact&langs_count=7&theme=highcontrast"/>
+</div>
+   
+   
 
   
 ![image](https://user-images.githubusercontent.com/87083965/126054459-34ef76aa-9d0d-4cb7-9d13-7c61b0081c89.png)
