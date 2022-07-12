@@ -14,7 +14,7 @@
 
 ### Carreira Profissional: 
  
-Estágio: Engenharia de Dados, empresa: DP6
+Atua na aréa de Engenharia de Dados, empresa: DP6
  
 Inicio: setembro 2021.
  
