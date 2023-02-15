@@ -26,12 +26,13 @@ Fui monitora da disciplina de Liguagens de programação por mais de 2 anos e fu
  
  
 #### Projetos
-![image](https://user-images.githubusercontent.com/87083965/126054906-e0dae5d7-9f7d-4c52-8ec0-7c3e6eac9f04.png) Finalizei um projeto de pesquisa que aplica técnicas de aprendizado de máquina na análise de crédito. A pesquisa busca demonstrar a eficácia 
+![image](https://user-images.githubusercontent.com/87083965/126054906-e0dae5d7-9f7d-4c52-8ec0-7c3e6eac9f04.png)
+Finalizei um projeto de pesquisa que aplica técnicas de aprendizado de máquina na análise de crédito. A pesquisa busca demonstrar a eficácia 
 de diversos classificadores para bases de dados da aréa de crédito. A classificação visa análisar um padrão de comportamento e com base nesse padrão
 classificar possívéis clientes em inadimplentes ou adimplentes, dado as caracteristicas do cliente e o histórico de crédito da instituição financeira.
  
- ![image](https://user-images.githubusercontent.com/87083965/126054917-503281a3-6c80-495f-af9e-4c8ad30171d0.png)
-Iniciei um projeto para montagem de um robô autônomo simples utilizando arduino, com o intuito de futuramente testar no robô uma modelagem para roteamento de veículos autônomos. 
+ ![image](https://user-images.githubusercontent.com/87083965/126054906-e0dae5d7-9f7d-4c52-8ec0-7c3e6eac9f04.png)
+Criação de um robô autônomo simples utilizando arduino, foi feito a montagem do equipamento para a disciplina Montagem de Equipamentos II do curso de Engenharia Física, para o projeto foi elaborado um artigo e tutorial de montagem além do codigo fonte utilizado. 
 
  
  <div align="center">
@@ -64,7 +65,8 @@ Iniciei um projeto para montagem de um robô autônomo simples utilizando arduin
 ![image](https://user-images.githubusercontent.com/87083965/126054656-1b202b2a-2d99-41d7-ac81-52a0694945bb.png)
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![image](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![image]( https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![image](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
  
