@@ -20,9 +20,10 @@ Inicio: setembro 2021.
  
 ### Carreira Academica:
  
-Sou graduada em Ciência e Tecnologia pela UFVJM, e atualmente estou cursando Engenharia Física.
- 
-Fui monitora da disciplina de Liguagens de programação por mais de 2 anos e fui tutora de alunos do fundamental/médio em uma escola estadual, por 1 ano e meio. 
+#### Sou graduada em Ciência e Tecnologia pela UFVJM, e atualmente estou cursando Engenharia Física.
+
+#### Monitora da disciplina de Liguagens de programação (por 2 anos)
+#### Tutora em escola pública, para alunos fundamental/médio em uma escola estadual (1 ano). 
  
  
 #### Projetos
