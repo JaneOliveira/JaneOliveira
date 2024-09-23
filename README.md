@@ -20,6 +20,7 @@ Inicio: setembro 2021.
  
 ### Carreira Academica:
  
+#### Discente no curso de Pós Graduação em Engenharia de Dados pela PUC Minas
 #### Sou graduada em Ciência e Tecnologia pela UFVJM, e atualmente estou cursando Engenharia Física.
 
 #### Monitora da disciplina de Liguagens de programação (por 2 anos)
