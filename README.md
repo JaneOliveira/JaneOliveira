@@ -1,6 +1,6 @@
 ### Hi there 👋👋👋
 
-## <i>-> Meu nome é Jane Oliveira
+## <i>-> I'm Jane Oliveira
  
 
 ###  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jane-thais-oliveira/)
@@ -14,13 +14,13 @@
 
 ### Carreira Profissional: 
  
-Atua na aréa de Engenharia de Dados, empresa: DP6
+Engenheira de Dados, empresa: DP6
  
 Inicio: setembro 2021.
  
 ### Carreira Academica:
  
-#### Discente no curso de Pós Graduação em Engenharia de Dados pela PUC Minas
+#### Pós Graduação - Especialização em Engenharia de Dados pela PUC Minas
 #### Sou graduada em Ciência e Tecnologia pela UFVJM, e atualmente estou cursando Engenharia Física.
 
 #### Monitora da disciplina de Liguagens de programação (por 2 anos)
