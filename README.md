@@ -91,3 +91,10 @@ Gosto de trocar ideia sobre:
 - Carreira em dados
 
 📩 Me chama no LinkedIn 🙂
+
+ <div align="center">
+  <a href="https://github.com/JaneOliveira">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JaneOliveira&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/JaneOliveira">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaneOliveira&layout=compact&langs_count=7&theme=highcontrast"/>
+</div>
