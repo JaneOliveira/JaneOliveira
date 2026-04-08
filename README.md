@@ -82,14 +82,6 @@ Atualmente atuo como **Data Engineer na DP6**, trabalhando com:
 
 ---
 
-## 📊 GitHub Stats
-
-[![Jane's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaneOliveira&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true)](https://github.com/JaneOliveira)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaneOliveira&layout=compact&langs_count=7&theme=highcontrast)](https://github.com/JaneOliveira)
-
----
-
 ## 💬 Vamos conversar?
 
 Gosto de trocar ideia sobre:
