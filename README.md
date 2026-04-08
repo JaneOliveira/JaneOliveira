@@ -1,11 +1,14 @@
-# 👩‍💻 Jane Oliveira
+<!-- HEADER ANIMADO -->
+<h1 align="center">Hi 👋, I'm Jane Oliveira 👩‍💻 </h1>
+<h3 align="center">🚀 Data Engineer | AWS & GCP | SQL Performance | Data Architecture</h3>
 
-💡 Data Engineer | AWS & GCP | SQL Performance | Analytics & Marketing Data
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jane-thais-oliveira/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/jane-thais-oliveira/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
-
 ## 🚀 Sobre mim
 
 Sou Engenheira de Dados com experiência prática construindo pipelines escaláveis e otimizados para grandes volumes de dados (bilhões de eventos/mês), atuando principalmente com dados de marketing e comportamento (GA4).
@@ -81,11 +84,9 @@ Atualmente atuo como **Data Engineer na DP6**, trabalhando com:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/JaneOliveira">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JaneOliveira&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaneOliveira&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
+[![Jane's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaneOliveira&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true)](https://github.com/JaneOliveira)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaneOliveira&layout=compact&langs_count=7&theme=highcontrast)](https://github.com/JaneOliveira)
 
 ---
 
