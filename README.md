@@ -16,7 +16,7 @@ Tenho forte foco em:
 - 🔹 Integração entre clouds (GCP → AWS)  
 - 🔹 Transformar dados em valor para negócio  
 
-Acredito que dados só fazem sentido quando geram impacto real — e é nisso que eu foco todos os dias.
+Acredito que dados só fazem sentido quando geram impacto real, e é nisso que eu foco todos os dias.
 
 ---
 
